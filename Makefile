@@ -19,6 +19,10 @@ SRCS = $(SRCS_DIR)/ft_isalpha.c $(SRCS_DIR)/ft_isdigit.c $(SRCS_DIR)/ft_isalnum.
        $(SRCS_DIR)/ft_lstsize.c $(SRCS_DIR)/ft_lstlast.c $(SRCS_DIR)/ft_lstadd_back.c \
        $(SRCS_DIR)/ft_lstdelone.c $(SRCS_DIR)/ft_lstclear.c $(SRCS_DIR)/ft_lstiter.c \
        $(SRCS_DIR)/ft_lstmap.c \
+       $(SRCS_DIR)/ft_atol.c $(SRCS_DIR)/ft_first_word.c $(SRCS_DIR)/ft_matrix_dup.c \
+       $(SRCS_DIR)/ft_matrix_free.c $(SRCS_DIR)/ft_matrix_len.c $(SRCS_DIR)/ft_putnbr_base.c \
+       $(SRCS_DIR)/ft_strcat.c $(SRCS_DIR)/ft_strchr_quotes.c $(SRCS_DIR)/ft_strcmp.c \
+       $(SRCS_DIR)/ft_strcspn.c $(SRCS_DIR)/ft_utoa.c $(SRCS_DIR)/ft_split_quotes_operators.c \
        $(SRCS_DIR)/get_next_line.c $(SRCS_DIR)/get_next_line_utils.c \
        $(SRCS_DIR)/ft_printf.c $(SRCS_DIR)/ft_printf_utils.c $(SRCS_DIR)/ft_printf_utils2.c
 
